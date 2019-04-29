@@ -1,0 +1,14 @@
+scheme: "http"
+servers:
+  - name: Server A
+    scheme: http
+    host: localhost
+    port: 3001
+  - name: Server B
+    scheme: http
+    host: localhost
+    port: 3333
+  - name: Server C
+    scheme: http
+    host: localhost
+    port: 3003
